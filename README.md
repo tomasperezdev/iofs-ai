@@ -1,8 +1,15 @@
 This is a [Next.js](https://github.com/expo/expo) + [Gluestack-ui](https://ui.gluestack.io/) project template bootstrapped with [`create-expo-app`](https://docs.expo.dev/get-started/create-a-project/).
 
+
+
+https://github.com/tomasperezdev/iofs-ai/assets/5216580/07e43ac3-d51f-4098-9982-931c76b2fcd1
+
+
+
 ## Getting Started
 
 First, run the development server:
+
 
 ```bash
 # For web
