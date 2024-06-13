@@ -2,7 +2,11 @@ This is a [Next.js](https://github.com/expo/expo) + [Gluestack-ui](https://ui.gl
 
 
 
-https://github.com/tomasperezdev/iofs-ai/assets/5216580/07e43ac3-d51f-4098-9982-931c76b2fcd1
+
+
+https://github.com/tomasperezdev/iofs-ai/assets/5216580/9649d1f3-b258-4258-b21a-f275bec2ab4d
+
+
 
 
 
